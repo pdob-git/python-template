@@ -1,0 +1,11 @@
+{
+    "project_name": "simple_python",
+    "package_name": "simple_python",
+    "project_slug": "{{ cookiecutter.package_name|replace('_', '-') }}",
+    "description": "A simple Hello World Python project",
+    "author_name": "Your Name",
+    "author_email": "your.email@example.com",
+    "version": "0.1.0",
+    "python_version": "3.8",
+    "year": "2026"
+}
